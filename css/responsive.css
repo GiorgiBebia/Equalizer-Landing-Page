@@ -1,0 +1,163 @@
+@media (max-width: 768px) {
+    body {
+        background-position: 500px -35px;
+    }
+
+    main {
+        background-image: url(../img/bg-main-tablet.png);
+        padding-left: 39.15px;
+    }
+
+    h1 {
+        width: 520px;
+        height: 192px;
+        font-size: 64px;
+        line-height: 64px;
+        letter-spacing: -0.73px;
+        /* padding-top: 95px; */
+        padding-bottom: 28px;
+    }
+
+    .p1 {
+        width: 514px;
+        height: 112px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    section {
+        width: 696px;
+        height: 600px;
+        margin-top: 249px;
+        background-position: 215px -31px;
+    }
+
+    .illustration-app {
+        width: 270.21px;
+        height: 556px;
+        padding-left: 64px;
+        margin-top: -138px;
+    }
+
+    .div1 {
+        width: 399px;
+        height: 546px;
+        margin-top: 150px;
+        margin-left: -97px;
+    }
+
+    .h2-1 {
+        width: 302px;
+        height: 40px;
+        font-size: 32px;
+        line-height: 40px;
+        padding: 48px 0 12px;
+        margin: 0 auto;
+    }
+
+    .p2 {
+        width: 302px;
+        height: 140px;
+        font-size: 18px;
+        line-height: 28px;
+        padding-left: 0px;
+        margin: 0 auto;
+    }
+
+    .div2 {
+        padding: 36px 180px 32px 54px;
+    }
+
+    .div3,
+    .div5 {
+        width: 296px;
+    }
+
+    footer {
+        display: block;
+        margin-top: 183px;
+        margin-left: 33px;
+        width: 696px;
+    }
+
+    .p3 {
+        padding: 32px 230px 0px 0px;
+    }
+}
+
+@media (max-width: 375px) {
+    body {
+        background-image: none
+    }
+
+    main {
+        background-image: url(../img/bg-main-mobile.png);
+        padding-top: 39.99px;
+        padding-left: 24.15px;
+    }
+
+    h1 {
+        width: 327px;
+        height: 144px;
+        font-size: 40px;
+        line-height: 48px;
+        letter-spacing: -0.45px;
+        padding-top: 64px;
+        padding-bottom: 20px;
+    }
+
+    .p1 {
+        width: 327px;
+        height: 156px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    section {
+        width: 375px;
+        height: 600px;
+        background-position: 48px 0px;
+        margin-top: 166px;
+        display: block;
+        background-size: 280px 420px;
+    }
+
+    .illustration-app {
+        width: 208.97px;
+        height: 430px;
+        margin-top: -98px;
+        padding-left: 80.67px;
+    }
+
+    .div1 {
+        width: 375px;
+        margin-left: 0px;
+        margin-top: 48px;
+    }
+
+    .div2 {
+        padding-right: 0px;
+    }
+
+    .div3,
+    .div5 {
+        margin-left: 42px;
+    }
+
+    footer {
+        margin-top: 390px;
+        width: 327px;
+    }
+
+    .div7 {
+        display: block;
+        padding-bottom: 80px;
+    }
+
+    .p3 {
+        width: 327px;
+        height: 105px;
+        margin: 0 auto;
+        padding: 32px 0px 64px;
+    }
+}
